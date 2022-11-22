@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-daniel/static/css/main.b2a77715.css",
+    "main.css": "/portfolio-daniel/static/css/main.eddacbf4.css",
     "main.js": "/portfolio-daniel/static/js/main.01e55028.js",
     "static/js/787.fb771931.chunk.js": "/portfolio-daniel/static/js/787.fb771931.chunk.js",
     "static/media/header-img.svg": "/portfolio-daniel/static/media/header-img.db9fb476b5a2cefcd4dc068a85e43c6e.svg",
@@ -24,12 +24,12 @@
     "static/media/angular-icon.svg": "/portfolio-daniel/static/media/angular-icon.34299ced48b0768f915d32fa834f7425.svg",
     "index.html": "/portfolio-daniel/index.html",
     "static/media/nav-icon1.svg": "/portfolio-daniel/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.b2a77715.css.map": "/portfolio-daniel/static/css/main.b2a77715.css.map",
+    "main.eddacbf4.css.map": "/portfolio-daniel/static/css/main.eddacbf4.css.map",
     "main.01e55028.js.map": "/portfolio-daniel/static/js/main.01e55028.js.map",
     "787.fb771931.chunk.js.map": "/portfolio-daniel/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2a77715.css",
+    "static/css/main.eddacbf4.css",
     "static/js/main.01e55028.js"
   ]
 }
